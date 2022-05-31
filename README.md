@@ -9,7 +9,8 @@
 - 🔭 Je cherche à approfondir mes connaissances en HTML/CSS, à apprendre le JS, à travailler avec React et à potentiellement découvrir d'autres langages
 - 💬 Si tu as une idée de projet que je pourrais mener, si tu veux me demander de l'aide ou si tu veux juste parler, tu peux m'ajouter sur Discord : Slawk#0001
 
-### Mes projets 💻 en cours ou 🚧 à commencer :
+### Mes projets ✅ finis, 💻 en cours ou 🚧 à commencer :
+- **✅ [TailwindTemplate](https://github.com/Slawk/TailwindTemplate) :** Un template vierge pour aider les débutants avec TailwindCSS
 - **💻 [Doalo.fr](https://github.com/Doalou/doalo.fr) :** Le site de [Doalo](https://github.com/Doalou) auquel je participe
 - **🚧 Pymage :** Un logiciel regroupant des options basiques d'édition d'image
 - **🚧 Taggle :** Une trousse à outil basique
