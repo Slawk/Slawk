@@ -13,7 +13,7 @@
 - **✅ [TailwindTemplate](https://github.com/Slawk/TailwindTemplate) :** Un template vierge pour aider les débutants avec TailwindCSS
 - **💻 [Doalo.fr](https://github.com/Doalou/doalo.fr) :** Le site de [Doalo](https://github.com/Doalou) auquel je participe
 - **🚧 Pymage :** Un logiciel regroupant des options basiques d'édition d'image
-- **🚧 Taggle :** Une trousse à outil basique
+- **🚧 Taggle :** Une trousse à outil basique (plus de détails soon)
 - **🚧 Slawk le site :** Bah mon site quoi
 - **👀 D'autres projets encore secrets**
 
